@@ -1,4 +1,4 @@
-Installation:
+Telepítés:
 - futtasd a telepítőt.
 - kész.
 
