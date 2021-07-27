@@ -11,3 +11,9 @@ funkciók:
 - mute
 - gag
 - silence
+
+Használat: 
+- töltsd ki a szükséges információs mezőket
+- nyomd meg a COMMAND gombot a parancs létrehozásához
+
+![Screenshot_1](https://user-images.githubusercontent.com/72438034/127236611-5c1fa804-078b-4cd2-9720-825d19307224.jpg)
